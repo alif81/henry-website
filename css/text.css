@@ -1,21 +1,21 @@
-body{
-	margin: 0;
+body {
+  margin: 0;
 }
 
-header{
-	background: red;
-	text-align: center;
-	padding-top: 50px;
-	padding-bottom: 50px;
+header {
+  background: red;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
-header h1{
-	color: white;
-	font-family: marvel;
+header h1 {
+  color: white;
+  font-family: marvel;
 }
 
-header img{
-	border-radius: 170px;
-    width: 300px;
-    border: 10px solid white;
+header img {
+  border-radius: 170px;
+  width: 300px;
+  border: 10px solid white;
 }
